@@ -1,0 +1,18 @@
+body {
+  background-color: #C6DCE4;
+}
+
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 8%;
+}
+h1{
+  color: #66bfbf;
+  font-family: "Cursive", "Lucida Handwriting", monospace;
+}
+
+h3{
+  color: #66bfbf;
+}
